@@ -1,5 +1,5 @@
 === Simple Header Footer HTML ===
-Contributors: ottok
+Contributors: Zuige, ottok
 Tags: https, header, footer, js, css, html
 Donate link: http://seravo.fi/
 Requires at least: 3.8
