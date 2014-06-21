@@ -4,7 +4,7 @@
 Plugin Name: Simple Header Footer HTML
 Description: Allows you to inject HTML code into multiple places in your theme output
 Author: Antti Kuosmanen (Seravo Oy), Otto Kekäläinen (Seravo Oy)
-Version: 0.9
+Version: 1.0
 Author URI: http://seravo.fi
 Text Domain: seravo-inject-html
 License: GPLv3
