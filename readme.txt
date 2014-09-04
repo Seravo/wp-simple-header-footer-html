@@ -4,7 +4,7 @@ Tags: https, header, footer, js, css, html
 Donate link: http://seravo.fi/
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 0.95
+Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -29,10 +29,8 @@ Source available at https://github.com/Seravo/wp-simple-header-footer-html
 
 == Frequently Asked Questions ==
 
-=== Does this work for WordPress Network? ===
-
-Yes.
-
+= Why doesn't my PHP code work? =
+We don't support PHP evaluation due to some serious security issues. This plugin is intended only for HTML/CSS/JS.
 
 == Screenshots ==
 
@@ -42,12 +40,15 @@ None yet.
 
 Note that complete commit log is available at https://github.com/Seravo/wp-simple-header-footer-html/commits/master
 
-=== 0.9 ===
+= 1.0 =
+Release version
+
+= 0.9 =
 * Initial release to WordPress.org
 
 == Upgrade Notice ==
 
-=== 0.9 ===
-* All OK!
+= 1.0 =
+Release version
 
 (This readme.txt is made to satisfy official WordPress plugin directory requirements.)
