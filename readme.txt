@@ -3,7 +3,7 @@ Contributors: Zuige, ottok
 Tags: https, header, footer, js, css, html
 Donate link: http://seravo.fi/
 Requires at least: 3.8
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 0.95
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -51,4 +51,3 @@ Note that complete commit log is available at https://github.com/Seravo/wp-simpl
 * All OK!
 
 (This readme.txt is made to satisfy official WordPress plugin directory requirements.)
-
