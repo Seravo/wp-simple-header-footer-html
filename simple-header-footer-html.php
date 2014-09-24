@@ -1,15 +1,16 @@
 <?php
-/*
-Plugin Name: Simple Header Footer HTML
-Plugin URI: https://github.com/Seravo/wp-simple-header-footer-html
-Description: Allows you to inject HTML code into multiple places in your theme output
-Author: Seravo Oy
-Version: 1.0.1
-Author URI: http://seravo.fi
-Text Domain: seravo-inject-html
-License: GPLv3
+/**
+ *
+ * Plugin Name: Simple Header Footer HTML
+ * Plugin URI: https://github.com/Seravo/wp-simple-header-footer-html
+ * Description: Allows you to inject HTML code into multiple places in your theme output
+ * Author: Seravo Oy
+ * Version: 1.3
+ * Author URI: http://seravo.fi
+ * Text Domain: seravo-inject-html
+ * License: GPLv3
 */
-/*  Copyright 2014 Seravo Oy
+/*  Copyright 2015 Seravo Oy
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 3, as
