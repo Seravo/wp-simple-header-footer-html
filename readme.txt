@@ -4,7 +4,7 @@ Tags: https, header, footer, js, css, html
 Donate link: http://seravo.fi/
 Requires at least: 3.8.9
 Tested up to: 4.2.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -39,6 +39,9 @@ None yet.
 == Changelog ==
 
 Note that complete commit log is available at https://github.com/Seravo/wp-simple-header-footer-html/commits/master
+
+= 1.2 =
+Revert LICENSE change and bad escapes
 
 = 1.1 =
 Properly escape output, WordPress 4.2 compatibility
