@@ -1,0 +1,22 @@
+{
+  "name": "seravo/wp-simple-header-footer-html",
+  "type": "wordpress-plugin",
+  "license": "GPLv3",
+  "description": "A simple plugin for injecting HTML into various places in your Wordpress theme output.",
+  "homepage": "https://github.com/Seravo/wp-https-domain-alias",
+  "authors": [
+    {
+      "name": "Antti Kuosmanen",
+      "email": "antti@seravo.fi",
+      "homepage": "https://github.com/anttiviljami"
+    },
+    {
+      "name": "Otto Kekäläinen",
+      "email": "otto@seravo.fi",
+      "homepage": "https://github.com/ottok"
+    }
+  ],
+  "keywords": [
+    "wordpress","simple", "header", "footer", "inject", "html", "javascript"
+  ]
+}
