@@ -1,9 +1,9 @@
 === Simple Header Footer HTML ===
-Contributors: Zuige, ottok
-Tags: https, header, footer, js, css, html
+Contributors: zuige, ottok
+Tags: https, header, footer, js, css, html, seravo
 Donate link: http://seravo.fi/
 Requires at least: 3.8.9
-Tested up to: 4.2.1
+Tested up to: 4.4.1
 Stable tag: 1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
