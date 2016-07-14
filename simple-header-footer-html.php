@@ -5,8 +5,8 @@
  * Plugin URI: https://github.com/Seravo/wp-simple-header-footer-html
  * Description: Allows you to inject HTML code into multiple places in your theme output
  * Author: Seravo Oy
- * Version: 1.2
- * Author URI: http://seravo.fi
+ * Version: 1.2.1
+ * Author URI: https://seravo.com
  * Text Domain: seravo-inject-html
  * License: GPLv3
 */
@@ -123,7 +123,7 @@ function seravo_build_settings_page() {
     <?php submit_button(); ?>
 
 </form>
-<p><small>Simple Header Footer HTML is made by <a href="http://seravo.fi/">Seravo Oy</a>, which specializes in open source support services and among others is the only company in Finland to provide [WordPress Premium Hosting](http://seravo.fi/wordpress-palvelu).</small></p></div>
+<p><small>Simple Header Footer HTML is made by folks at <a href="https://seravo.com/">Seravo.com</a>.</small></p></div>
 
 <?php
 
