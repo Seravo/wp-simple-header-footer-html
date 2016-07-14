@@ -1,14 +1,14 @@
 === Simple Header Footer HTML ===
 Contributors: zuige, ottok
 Tags: https, header, footer, js, css, html, seravo
-Donate link: http://seravo.fi/
+Donate link: https://seravo.com/
 Requires at least: 3.8.9
-Tested up to: 4.4.1
+Tested up to: 4.5.3
 Stable tag: 1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-A simple plugin for injecting HTML into various places in your Wordpress theme output.
+A simple plugin for injecting HTML into various places in your WordPress theme output.
 
 == Description ==
 
@@ -16,7 +16,7 @@ This plugin is useful if you have want to enable your users to insert custom CSS
 
 This plugin is designed to be used in WordPress Network installations, where site admins are not supposed to have PHP execution access but any HTML/CSS/JS code is safe to accept.
 
-This plugin is made by [Seravo Oy](http://seravo.fi/), which specializes in open source support services and among others is the only company in Finland to provide [WordPress Premium Hosting](http://seravo.fi/wordpress-palvelu).
+**Contributing**
 
 Source available at https://github.com/Seravo/wp-simple-header-footer-html
 
@@ -25,7 +25,6 @@ Source available at https://github.com/Seravo/wp-simple-header-footer-html
 1. Upload plugin to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Start using!
-
 
 == Frequently Asked Questions ==
 
