@@ -3,6 +3,14 @@
 
 A simple plugin for injecting HTML into various places in your WordPress theme output.
 
+# Description
+
+This plugin is useful if you have want to enable your users to insert custom CSS or add custom headers or some JavaScript into the site without having to edit any theme files. Unlike similar header/footer plugins, this plugin by design does not allow to insert PHP code and does not contain any evil eval() calls.
+
+The plugin is safe to use in WordPress Network installations, where site admins are not supposed to have PHP execution access but any HTML/CSS/JS code is safe to accept.
+
+Simple Header Footer HTML is made by Seravo.com, who specialise in open source support ervices and among others is the only company in Finland to provide WordPress Premium Hosting.
+
 ## Installation
 
 ### The Composer Way (preferred)
