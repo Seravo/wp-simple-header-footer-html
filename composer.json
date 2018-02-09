@@ -1,7 +1,7 @@
 {
   "name": "seravo/wp-simple-header-footer-html",
   "type": "wordpress-plugin",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "description": "A simple plugin for injecting HTML into various places in your WordPress theme output.",
   "homepage": "https://github.com/Seravo/wp-https-domain-alias",
   "authors": [

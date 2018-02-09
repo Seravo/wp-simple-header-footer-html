@@ -5,12 +5,12 @@
  * Plugin URI: https://github.com/Seravo/wp-simple-header-footer-html
  * Description: Allows you to inject HTML code into multiple places in your theme output
  * Author: Seravo Oy
- * Version: 1.2.1
+ * Version: 1.2.2
  * Author URI: https://seravo.com
  * Text Domain: seravo-inject-html
  * License: GPLv3
 */
-/*  Copyright 2015-2016 Seravo Oy
+/*  Copyright 2015-2018 Seravo Oy
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 3, as
@@ -128,4 +128,3 @@ function seravo_build_settings_page() {
 <?php
 
 }
-
