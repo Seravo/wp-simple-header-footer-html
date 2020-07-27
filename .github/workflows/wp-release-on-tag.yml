@@ -14,3 +14,4 @@ jobs:
       env:
         SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
         SVN_USERNAME: seravo
+        SLUG: simple-header-footer-html
