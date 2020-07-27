@@ -3,7 +3,7 @@ Contributors: zuige, ottok
 Tags: https, header, footer, js, css, html, seravo
 Donate link: https://seravo.com/
 Requires at least: 3.8.9
-Tested up to: 4.9.4
+Tested up to: 5.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -15,7 +15,7 @@ This plugin is useful if you have want to enable your users to insert custom CSS
 
 The plugin is safe to use in WordPress Network installations, where site admins are not supposed to have PHP execution access but any HTML/CSS/JS code is safe to accept.
 
-Simple Header Footer HTML is made by Seravo.com, who specialise in open source support ervices and among others is the only company in Finland to provide WordPress Premium Hosting.
+Simple Header Footer HTML is made by Seravo.com. Seravo provides Premium Hosting and Upkeep service for WordPress. 
 
 **Contributing**
 
