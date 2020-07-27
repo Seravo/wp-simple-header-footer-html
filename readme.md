@@ -9,7 +9,7 @@ This plugin is useful if you have want to enable your users to insert custom CSS
 
 The plugin is safe to use in WordPress Network installations, where site admins are not supposed to have PHP execution access but any HTML/CSS/JS code is safe to accept.
 
-Simple Header Footer HTML is made by Seravo.com, who specialise in open source support ervices and among others is the only company in Finland to provide WordPress Premium Hosting.
+Simple Header Footer HTML is made by Seravo.com. Seravo provides Premium Hosting and Upkeep service for WordPress. 
 
 ## Installation
 
